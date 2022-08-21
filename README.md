@@ -1,4 +1,4 @@
-# [CoSchedule Clone](https://akashkmt.github.io/coSchedule-Clone/)
+# [CoSchedule Clone](https://ap-lodhi.github.io/coSchedule-clone/)
 [PPT CoSchedule](https://docs.google.com/presentation/d/1G8L2W37NY-4VmJ0zL_PtmlDSlOAJfSkr/edit?usp=sharing&ouid=108491397321189341775&rtpof=true&sd=true)
 
 <h2>An Online Web App that can organize, manage and schedule all your tasks in one place.</h2>
