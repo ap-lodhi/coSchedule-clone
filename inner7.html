@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./inner7.css">
+</head>
+<body>
+    <p id="prev" onclick="previouspage()"> ← Back</p>
+     
+    <h1 class="head">Connect your Facebook account to get the most out of CoSchedule</h1>
+    <p id="upperpara" class="head">Customers who connect Facebook are 3.5x more likely to be successful with CoSchedule.</p>
+    <img id="innerimg" src="https://app.coschedule.com/img/self-serve-onboarding/facebook-overlay-baf968768a5797e3b78fd01eaf9b17d5.png" alt="">
+    
+     <div id="middleBox">
+          <h1>Facebook + CoSchedule</h1>
+     </div>
+
+    <div id="footer">
+        <h1>CoSchedule</h1>
+        <p onclick="mainpage()" class="footerp">Maybe Later</p>
+        <p onclick="nextpage()" class="footerp">Connect Facebook</p>
+    </div>
+    <script>
+        function nextpage(){
+            window.location.href='#'
+        }
+        function previouspage(){
+            window.location.href='./inner6.html'
+        }
+        function mainpage(){
+            window.location.href='./addTask.html'
+        }
+    </script>
+</body>
+</html>
